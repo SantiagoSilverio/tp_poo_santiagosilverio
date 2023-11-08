@@ -1,1 +1,1 @@
-sistema de una consecionaria, la cual tiene dos opciones la de agragar un auto o vender, en el caso de vender solo podra de marca peugeot, toyota o nissan
+El sistema de la concesionaria que mencionas tiene dos opciones: agregar un auto o vender. En el caso de la opción de vender, solo se podrán ofrecer autos de las marcas Peugeot, Toyota o Nissan. 
