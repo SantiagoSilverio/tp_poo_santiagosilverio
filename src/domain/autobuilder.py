@@ -1,4 +1,4 @@
-from domain.auto import AutoModel
+from domain.Auto import AutoModel
 
 class AutoBuilder:
     _instance = None
